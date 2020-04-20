@@ -1,1 +1,3 @@
-# go_programming
+# go_programming  
+
+Go 練習用レポジトリです。
